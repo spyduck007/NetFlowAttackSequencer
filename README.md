@@ -1,6 +1,7 @@
 # NetFlowAttackSequencer
 
-[Watch the Demo Video](https://example.com/demo-video)
+[Demo Video](https://example.com/demo-video)
+[Technical Paper](TechnicalPaper.pdf)
 
 ## What is the problem?
 
