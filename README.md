@@ -1,5 +1,5 @@
 # NetFlowAttackSequencer
-Lightwieght attack chain correlation engine for netowrk flow data  
+Lightweight attack chain correlation engine for network flow data  
 
 [Demo Video](https://example.com/demo-video)  
 [Technical Paper](TechnicalPaper.pdf)
