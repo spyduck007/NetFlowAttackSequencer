@@ -1,6 +1,7 @@
 # NetFlowAttackSequencer
+Lightwieght attack chain correlation engine for netowrk flow data  
 
-[Demo Video](https://example.com/demo-video)
+[Demo Video](https://example.com/demo-video)  
 [Technical Paper](TechnicalPaper.pdf)
 
 ## What is the problem?
@@ -35,8 +36,7 @@ It works by:
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/AttackChain.git
-    git clone https://github.com/yourusername/NetFlowAttackSequencer.git
+    git clone https://github.com/spyduck007/NetFlowAttackSequencer.git
     cd NetFlowAttackSequencer
     ```
 
